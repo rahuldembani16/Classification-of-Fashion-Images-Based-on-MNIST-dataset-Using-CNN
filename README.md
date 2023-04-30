@@ -1,3 +1,4 @@
+Rahool Dembani
 # Image-Classification-FASHION-MNIST
 
 # 1. Loss Vs Accuracy:
